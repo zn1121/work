@@ -1,0 +1,41 @@
+.bg{
+    margin: 0 auto;
+}
+.col{
+    text-align: center;
+}
+.btn{
+    margin-right:10px;
+}
+.ico{
+    font-size: 20px;
+    margin-bottom: 14px;
+    /* border:1px solid white;
+    border-left:1px solid transparent;
+    border-bottom:1px solid transparent;
+    border-radius: 50%;
+    animation:myfirst 5s; */
+}
+.ico:hover{
+    background: #eee;
+    border-radius: 20px;
+}
+
+.ico:active{
+    opacity: 1;
+}
+
+.logo{
+    text-align: center;
+}
+.brief{
+    
+    border: 1px solid #000;
+}
+.bread{
+    text-align: right
+}
+
+
+
+
